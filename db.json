@@ -1,0 +1,59 @@
+{
+    "adidass": [
+      {
+        "name": "Adidas1",
+        "price": "1000.000"
+      },
+      {
+        "name": "Adidas2",
+        "price": "1000.000"
+      },
+      {
+        "name": "Adidas3",
+        "price": "1000.000"
+      },
+      {
+        "name": "Adidas4",
+        "price": "1000.000"
+      }
+    ],
+    "converses": [
+      {
+        "name": "Converse1",
+        "price": "750.000"
+      },
+      {
+        "name": "Converse2",
+        "price": "750.000"
+      },
+      {
+        "name": "Converse3",
+        "price": "750.000"
+      },
+      {
+        "name": "Converse4",
+        "price": "750.000"
+      }
+    ],
+    "nikes": [
+      {
+        "name": "Nike1",
+        "price": "1.500.000"
+      },
+      {
+        "name": "Nike2",
+        "price": "1.500.000"
+      },
+      {
+        "name": "Nike3",
+        "price": "1.500.000"
+      },
+      {
+        "name": "Nike4",
+        "price": "1.500.000"
+      }
+    ],
+    "test": {
+      "name": "test"
+    }
+  }
